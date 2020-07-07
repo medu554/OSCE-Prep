@@ -1,5 +1,5 @@
-# OSCE-Prep-Exploits
+# OSCE-Prep
 
 Hi guys,
 
-here you can find some exploits I wrote for my OSCE preparation. 
+here you can find some exploits, fuzzing templates and tools I wrote/used for my OSCE preparation. 
